@@ -1,0 +1,2 @@
+# YOLOv11-YOLOv12-based-semantic-segmentation-of-dental-fillings-from-panoramic-radiographs
+This repository presents a completed deep learning experiment using YOLOv11 and YOLOv12 for automated dental filling segmentation in panoramic radiographs (OPGs). The project includes dataset preparation, annotation strategy, model training, validation, and performance evaluation, with a focus on clinical relevance and reproducibility.
